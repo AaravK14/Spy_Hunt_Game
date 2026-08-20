@@ -1,0 +1,2 @@
+g++ spy_hunt_server.cpp -o spy_hunt_server -lws2_32
+.\spy_hunt_server.exe
